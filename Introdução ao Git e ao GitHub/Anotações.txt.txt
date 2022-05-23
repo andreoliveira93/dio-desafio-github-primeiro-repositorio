@@ -1,2 +1,23 @@
-Link para download do Git: https://git-scm.com/downloads
-O Git Bash é um terminal extendido para otimizar o uso do Git.
+INTRODUÇÃO AO GIT
+- Entendendo o que é Git e sua importância;
+
+NAVEGAÇÃO VIA COMMAND LINE INTERFACE E INSTALAÇÃO
+- Comandos básicos para um bom desempenho no terminal;
+- Realizando a instalação do Git;
+
+ENTENDENDO COMO O GIT FUNCIONA POR BAIXO DOS PANOS
+- Tópicos fundamentais para entender o funcionamento do Git;
+- Objetos internos do Git; (blobs - trees - commits)
+- Chave SSH e Token;
+
+PRIMEIROS COMANDOS COM GIT
+- Iniciando o Git e criando um commit;
+
+CICLO DE VIDA DOS ARQUIVOS NO GIT
+- Passo a passo no ciclo de vida;
+
+INTRODUÇÃO AO GITHUB
+- Trabalhando com o GitHub;
+
+RESOLVENDO CONFLITOS
+- Como os conflitos acontecem no GitHub e como resolve-los;

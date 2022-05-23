@@ -1,0 +1,12 @@
+ENTENDENDO O QUE É LÓGICA
+- O que são algoritimos e pseudocódigo;
+- Aprendendo fluxograma, variáveis e constantes;
+- Tomada de decisões e expressões;
+- Como utilizar a contatenação;
+
+INTRODUÇÃO AO PORTUGOL
+- Aprenda como utilizar uma estrutura de repetição;
+- O que são linguagens de programação?;
+- Aprenda a utilizar desvios condicionais e boas praticas em programação;
+- Trabalhando com laços de repetição em portugol;
+- Aplicação prática com matrizes e Vetores;
